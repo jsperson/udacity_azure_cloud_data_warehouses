@@ -3,7 +3,7 @@ IF EXISTS (SELECT * FROM sys.external_tables WHERE name = 'stg_trip')
 GO
 
 CREATE EXTERNAL TABLE dbo.stg_trip (
-	[trip_id] VARCHAR(4000),
+    [trip_id] VARCHAR(4000),
     [rideable_type] VARCHAR(4000),
     [start_at] VARCHAR(4000),
     [ended_at] VARCHAR(4000),

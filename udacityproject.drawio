@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T23:25:13.764Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="fGnSEsfUSBsRE0rhzW8F" version="22.0.8" type="device">
+<mxfile host="app.diagrams.net" modified="2023-11-29T23:39:43.860Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="kYgjZkVMnzWK4Xt6Pvtc" version="22.0.8" type="device">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="838" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -601,9 +601,6 @@
             <mxPoint x="300" y="120" as="sourcePoint" />
             <mxPoint x="360" y="590" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="vB4RFgF0rnNEkVXDHJxx-162" value="Item" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="130" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vB4RFgF0rnNEkVXDHJxx-163" value="Dimensional Model for Bike Rental Data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="50" y="20" width="770" height="30" as="geometry" />
